@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: eastsidedddxx
+  labels:
+    environment-id: env_a3828238-73c0-4a88-ad40-e79577b25428
+    project-id: project_ce35a815-4d35-4d33-90e1-2a3363e3b873
+    project-name: dcvbgdfgdf
+    environment-name: prod
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6

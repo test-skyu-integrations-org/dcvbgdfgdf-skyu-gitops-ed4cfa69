@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: farsidedddaxx
+  labels:
+    environment-id: env_c3dd01ba-e127-44b2-bb97-d8bb71931de3
+    project-id: project_ce35a815-4d35-4d33-90e1-2a3363e3b873
+    project-name: dcvbgdfgdf
+    environment-name: dev
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
