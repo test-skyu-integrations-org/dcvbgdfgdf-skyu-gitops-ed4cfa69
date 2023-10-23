@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: llllllllllllllllllllassss
+  labels:
+    environment-id: env_2d422797-7819-4e45-9363-dac2d6e4ea0d
+    project-id: project_f3aed2c0-5182-4914-af7f-bfbd591d5475
+    project-name: vbfnvbnvbn
+    environment-name: prod
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
